@@ -1,0 +1,11 @@
+
+Embed Api to suggest trending<- Flow for this will be like as follows
+
+Country: India,USA,etc -> Category: Health, Science,Techno -> Results
+Reference: https://newsapi.org/docs/endpoints/top-headlines
+
+
+
+>Collaborative Projects:
+
+Initiate collaborative writing projects where multiple users contribute to a single blog post or series. Recognize contributors with special badges.
